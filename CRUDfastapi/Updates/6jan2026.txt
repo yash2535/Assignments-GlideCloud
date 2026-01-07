@@ -1,0 +1,3 @@
+Implemented CRUD operations for a Student Management System using FastAPI. 
+MongoDB is used as the database, and all database connection details are securely managed using environment variables (.env). 
+The project follows a clean, modular folder structure as per best practices.
